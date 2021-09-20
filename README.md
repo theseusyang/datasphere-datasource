@@ -1,2 +1,2 @@
 # datasphere-datasource
-an unified datasource connector
+this project has moved to datasource-service
